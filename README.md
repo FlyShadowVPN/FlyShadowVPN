@@ -2,6 +2,9 @@
 ## 官网 
 https://main.hkspeedup.com/
 
+## 下载地址
+https://github.com/FlyShadowVPN/FlyShadowVPN/releases
+
 ## 使用教程
 到官网复制订阅地址到客户端
 
