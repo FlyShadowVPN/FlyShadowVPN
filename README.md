@@ -1,4 +1,7 @@
 ### FlyShadowVPN Client 👋
+
+[English README](README_EN.md)
+
 ## 官网 
 https://main.hkspeedup.com/
 
