@@ -6,9 +6,7 @@ https://main.hkspeedup.com/
 https://github.com/FlyShadowVPN/FlyShadowVPN/releases
 
 ## WinTUN Instructions
-Windows启动TUN模式的时候需要用管理员权限运行。
-并且到设置界面检查并设置本地网卡IP是否为本机IP，
-如果不是请修改正确后再启动
+When starting Windows in TUN mode, it must be run with administrator privileges. Also, check and set the local network card IP to be the IP of the machine in the settings interface. If it is not, please correct it before starting.
 
 ## Usage Tutorial
 Copy the subscription address from the official website to the client.
