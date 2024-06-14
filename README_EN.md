@@ -14,8 +14,8 @@ When starting Windows in TUN mode, it must be run with administrator privileges.
 ## Usage Tutorial
 Copy the subscription address from the official website to the client.
 
-![image](https://github.com/FlyShadowVPN/FlyShadowVPN/assets/166269758/3d80d6a8-0180-475a-ae03-2ed86718bcec)
+![image](https://github.com/FlyShadowVPN/FlyShadowVPN/assets/166269758/74e0a206-0d3c-48ee-a778-ad71d302b9cb)
+![image](https://github.com/FlyShadowVPN/FlyShadowVPN/assets/166269758/1d9e2252-8220-4165-a2fe-cffea688424e)
 
-![image](https://github.com/FlyShadowVPN/FlyShadowVPN/assets/166269758/dfada07a-547f-48c0-831f-16f45eb2e93e)
 
 Select a node to use.
