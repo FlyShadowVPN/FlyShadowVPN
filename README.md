@@ -8,6 +8,9 @@ https://main.hkspeedup.com/
 ## 下载地址
 https://github.com/FlyShadowVPN/FlyShadowVPN/releases
 
+## iOS下载地址（需要美区ID，请到知乎搜索教程注册）
+https://apps.apple.com/us/app/flyshadow/id6502557196
+
 ## WinTUN说明
 Windows启动TUN模式的时候需要用管理员权限运行。
 并且到设置界面检查并设置本地网卡IP是否为本机IP，
