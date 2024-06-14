@@ -19,7 +19,7 @@ Windows启动TUN模式的时候需要用管理员权限运行。
 ## 使用教程
 到官网复制订阅地址到客户端
 
-![image](https://github.com/FlyShadowVPN/FlyShadowVPN/assets/166269758/3d80d6a8-0180-475a-ae03-2ed86718bcec)
+![image](https://github.com/FlyShadowVPN/FlyShadowVPN/assets/166269758/5f1993dc-07e0-4292-803c-9230ce963d86)
 
 ![image](https://github.com/FlyShadowVPN/FlyShadowVPN/assets/166269758/dfada07a-547f-48c0-831f-16f45eb2e93e)
 
