@@ -3,7 +3,7 @@
 https://main.hkspeedup.com/
 
 ## Download Link
-https://github.com/FlyShadowVPN/FlyShadowVPN/releases
+Please download it from the official website.
 
 ## iOS Download Link
 https://apps.apple.com/us/app/flyshadow/id6502557196
