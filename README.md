@@ -6,7 +6,7 @@
 https://main.hkspeedup.com/
 
 ## 下载地址
-https://github.com/FlyShadowVPN/FlyShadowVPN/releases
+请到官网中下载
 
 ## iOS下载地址（需要美区ID，请到知乎搜索教程注册）
 https://apps.apple.com/us/app/flyshadow/id6502557196
