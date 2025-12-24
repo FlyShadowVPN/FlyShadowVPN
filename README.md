@@ -3,7 +3,7 @@
 [English README](README_EN.md)
 
 ## 官网 
-https://main.hkspeedup.com/
+https://system.hkspeedup.com/
 
 ## 下载地址
 请到官网中下载
@@ -17,10 +17,4 @@ Windows启动TUN模式的时候需要用管理员权限运行。
 如果不是请修改正确后再启动
 
 ## 使用教程
-到官网复制订阅地址到客户端
-
-![image](https://github.com/FlyShadowVPN/FlyShadowVPN/assets/166269758/5f1993dc-07e0-4292-803c-9230ce963d86)
-
-![image](https://github.com/FlyShadowVPN/FlyShadowVPN/assets/166269758/dfada07a-547f-48c0-831f-16f45eb2e93e)
-
-选择节点即可使用
+请到官网公告应用查看教程
